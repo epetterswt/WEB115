@@ -1,0 +1,56 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: burlywood;
+}
+
+header {
+    background-color: burlywood;
+}
+
+img {
+    max-width: 1600px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin: 25px;
+}
+
+.wkdy {
+    font-size: 18pt;
+}
+
+.wkdyForm {
+    background-color: orchid;
+    color: white;
+    padding: 4px;
+    border-radius: 6px;
+    max-width: 300px;
+}
+
+.wkdyForm label {
+    background-color: purple;
+    padding: 4px;
+    border-radius: 6px;
+}
+
+.meal {
+    margin: 7px;
+}
+
+input {
+    max-width: 190px;
+    margin: 3px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15pt;
+}
+
+button {
+    background-color: orchid;
+    color: white;
+    padding: 4px;
+    border-radius: 6px;
+    max-width: 300px;
+    font-size: 15pt;
+}
